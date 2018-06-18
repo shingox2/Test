@@ -1,1 +1,1 @@
-hogehoge
+B1
