@@ -2,7 +2,7 @@
 
 int main(void)
 {
-  std::cout << "B1" << std::endl;
+  std::cout << "B11" << std::endl;
   
   return 0;
 }
